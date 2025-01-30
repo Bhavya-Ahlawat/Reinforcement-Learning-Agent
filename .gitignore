@@ -1,0 +1,16 @@
+# Exclude virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS specific files
+.DS_Store
+
+# Other unnecessary files
+*.log
+
+# Exclude Stockfish directory
+stockfish-windows-x86-64/
